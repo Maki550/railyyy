@@ -8,19 +8,19 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['96178965440', '𝐈𝐓𝐀𝐂𝐇𝐈┇👑', true],
-  ['96178965440', '𝐈𝐓𝐀𝐂𝐇𝐈┇👑', true],
-  ['96178965440', '𝐈𝐓𝐀𝐂𝐇𝐈┇👑', true],
-  ['96178965440', '𝐈𝐓𝐀𝐂𝐇𝐈┇👑', true],
+  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
+  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
+  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
+  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
 ] 
 
-global.suittag = ['96178965440'] 
-global.prems = ['96178965440'] 
+global.suittag = ['+201033189590'] 
+global.prems = ['+201033189590'] 
 
-global.packname = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』'
-global.author = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』'
-global.wm = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』'
-global.igfg = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』'
+global.packname = '𝑉𝘼𝐿𝑒𝑁 ☕'
+global.author = '+201033189590'
+global.wm = 'இ•◦𝑉𝘼𝐿𝑒𝑁┆✨'
+global.igfg = '𝑉𝘼𝐿𝑒𝑁'
 global.wait = '*[❗] يرجى الانتظار لحظه...*'
 
 
@@ -439,9 +439,9 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』`
-global.gt = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』'
-global.mysticbot = '『👑┇𝚁𝙰𝙸𝙻𝚈┇🤖┇𝙱𝙾𝚃┇👑』'
+global.wm2 = `▸ ${dia} ${fecha}\n▸ +201033189590`
+global.gt = '𝑉𝘼𝐿𝑒𝑁'
+global.mysticbot = '𝑉𝘼𝐿𝑒𝑁'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] يرجى الانتظار لحظه...*'
