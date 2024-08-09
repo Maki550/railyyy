@@ -8,19 +8,19 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
-  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
-  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
-  ['+201033189590', '𝑉𝘼𝐿𝑒𝑁', true],
+  ['+20 50 3577324', '𝙢𝙖𝙠𝙞 ⪼', true],
+  ['+20 50 3577324', '𝙢𝙖𝙠𝙞 ⪼', true],
+  ['+20 50 3577324', '𝙢𝙖𝙠𝙞 ⪼', true],
+  ['+20 50 3577324', '𝙢𝙖𝙠𝙞 ⪼', true],
 ] 
 
-global.suittag = ['+201033189590'] 
-global.prems = ['+201033189590'] 
+global.suittag = ['+20 50 3577324'] 
+global.prems = ['+20 50 3577324'] 
 
-global.packname = '𝑉𝘼𝐿𝑒𝑁 ☕'
-global.author = '+201033189590'
-global.wm = 'இ•◦𝑉𝘼𝐿𝑒𝑁┆✨'
-global.igfg = '𝑉𝘼𝐿𝑒𝑁'
+global.packname = '𝙫𝙞𝙤𝙡𝙖 🍷'
+global.author = '+20 50 3577324'
+global.wm = 'இ•◦𝙢𝙖𝙠𝙞┆✨'
+global.igfg = '𝙫𝙞𝙤𝙡𝙖'
 global.wait = '*[❗] يرجى الانتظار لحظه...*'
 
 
@@ -439,14 +439,14 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ +201033189590`
-global.gt = '𝑉𝘼𝐿𝑒𝑁'
-global.mysticbot = '𝑉𝘼𝐿𝑒𝑁'
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
+global.wm2 = `▸ ${dia} ${fecha}\n▸ `+20 50 3577324`
+global.gt = '𝙢𝙖𝙠𝙞'
+global.mysticbot = '𝙢𝙖𝙠𝙞'
+global.md = 'https://github.com/salmanytofficial/XLICON-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
-global.waitt = '*[❗] يرجى الانتظار لحظه...*'
-global.waittt = '*[❗] يرجى الانتظار لحظه...*'
-global.waitttt = '*[❗] يرجى الانتظار لحظه...*'
+global.waitt = '*[😔] يرجى الانتظار لحظه...*'
+global.waittt = '*[😉] يرجى الانتظار لحظه...*'
+global.waitttt = '*[🫦] يرجى الانتظار لحظه...*'
 global.nomorown = '96178965440'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
